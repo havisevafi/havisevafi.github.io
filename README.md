@@ -1,5 +1,6 @@
-# Hei!
+# Website for haviseva.fi
 
-## Katso mitä kivaa kylämme urheiluseura voisi tarjota sinulle
+## Pages for a small village in northern Kangasala, Finland
 
-[Harjulan Halla](https://harjulanhalla.fi)
+See wikipedia page for [Haviseva](https://fi.wikipedia.org/wiki/Haviseva).
+
